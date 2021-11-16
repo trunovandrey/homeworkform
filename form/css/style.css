@@ -1,0 +1,11 @@
+ul , li{
+    list-style: none;
+}
+.menu__list{
+    display: flex;
+
+}
+.menu__link{
+    padding-left: 40px;
+    
+}
